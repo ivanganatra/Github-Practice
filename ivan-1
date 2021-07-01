@@ -1,15 +1,1 @@
-1)I created this file in my local repository.
-2)Then I used "git add ."(to add all files)
-3)I could have also used (git add ivan-1)
-Then I checked the status of files by
-"git status".
-4)As after "git add", I again modified ivan-1 file, hence it showed this file in both stage area and untracked(files not in stage, area) area.
-5)Now I again performed "git add" command, and now there are no untracked files.
-6) Now I did a commit operation.
-"git commit -m "Ivan-1 file was created""
-7) Then I checked my commit status using
-"git log" command(showing time of commit, previous commit and sha code).
-8) Everything looks good, so I wanted to push it into a new branch.
-9) So I wrote "git push -b ivan".
-10)Task completed.
-
+This line was added in Ivan-1.
