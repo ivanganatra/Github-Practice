@@ -1,0 +1,3 @@
+Added a commit file
+
+You can also write git commit -m "Added a commit file", but for giving detailed information, you can write your message in a file(eg:commit_file) and commit it. Write the message in a email format, first write a subject in no more than 50 characters, and then write a detailed description of what changes you made, it is not necessary but a recommended practice if your file has a lot of changes.
